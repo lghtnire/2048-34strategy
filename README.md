@@ -4,4 +4,4 @@
 
 
 ## PDF下载
-如果你想离线阅读，请在release下载PDF攻略
+如果你想离线阅读，请在releases下载PDF攻略
